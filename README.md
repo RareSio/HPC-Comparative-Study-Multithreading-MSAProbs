@@ -1,4 +1,4 @@
-# HPC-Comperative-Study-Multithreading-MSAProbs
+# HPC-Comparative-Study-Multithreading-MSAProbs
 
 ## Overview
 This repository contains the PDF of a paper I authored as part of my Master's coursework in Bioinformatics. The work focuses on evaluating the performance of MSAProbs, a tool for multiple sequence alignment, when parallelized using different numbers of threads. Through this project, I gained valuable experience working with High-Performance Computing (HPC) environments, specifically on the Finis Terrae III supercomputer, which has equipped me with the skills to confidently handle HPC systems for bioinformatics research.
